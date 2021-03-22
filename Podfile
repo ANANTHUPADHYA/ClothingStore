@@ -1,20 +1,19 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'foodOrdering1' do
+target 'clothingStore' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 pod 'Firebase/Auth'
 pod 'Firebase/Firestore'
+  # Pods for clothingStore
 
-  # Pods for foodOrdering1
-
-  target 'foodOrdering1Tests' do
+  target 'clothingStoreTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'foodOrdering1UITests' do
+  target 'clothingStoreUITests' do
     # Pods for testing
   end
 

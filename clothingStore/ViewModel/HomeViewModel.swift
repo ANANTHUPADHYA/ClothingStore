@@ -1,5 +1,4 @@
 // HomeViewModel
-
 import SwiftUI
 import CoreLocation
 import Firebase

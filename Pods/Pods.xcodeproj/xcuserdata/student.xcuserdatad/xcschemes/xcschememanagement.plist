@@ -67,26 +67,41 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
-		<key>Pods-foodOrdering1-foodOrdering1UITests.xcscheme</key>
+		<key>Pods-clothingStore-clothingStoreUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
-		<key>Pods-foodOrdering1.xcscheme</key>
+		<key>Pods-clothingStore.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>15</integer>
 		</dict>
-		<key>Pods-foodOrdering1Tests.xcscheme</key>
+		<key>Pods-clothingStoreTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>17</integer>
+		</dict>
+		<key>Pods-foodOrdering1-foodOrdering1UITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>Pods-foodOrdering1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>Pods-foodOrdering1Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
 		</dict>
 		<key>PromisesObjC.xcscheme</key>
 		<dict>

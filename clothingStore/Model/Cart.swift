@@ -12,3 +12,4 @@ struct Cart: Identifiable {
     var item: Item
     var quantity: Int
 }
+
